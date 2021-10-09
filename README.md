@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C++ and C#
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: kontakt.drwal.exe@gmail.com
+- 📫 How to reach me: kontakt.april.b@gmail.com
 
 <!---
 april-b/april-b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
