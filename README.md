@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @april-b
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning C++ and C#
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Shrek
 - 📫 How to reach me: kontakt.april.b@gmail.com
 
 <!---
