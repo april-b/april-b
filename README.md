@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://april-b.github.io/">Official Website</a></strong> 
+  <strong><a href="https://april-b.github.io/">Official Website</a></strong> |
   <strong><a href="https://steamcommunity.com/id/drwal_exe/">Steam</a></strong> 
 </p>
 
