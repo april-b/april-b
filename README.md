@@ -1,12 +1,15 @@
-<h1 align="center">Hi, I'm <a href="https://april-b.github.io/">April-B</a>!</h1>
+<div align="center">
+<h2>Hello World <img src="https://github.com/april-b/april-b/blob/main/gifs/Hi.gif" width="30px">, I'm April_B.</h2>
 
-<p align="center">
-  <a href="https://github.com/april-b"><img src="https://github-readme-stats.vercel.app/api?username=april-b&hide_border=true&show_icons=true" alt="April's =github stats"></a>
-</p>
+<div align="center" width="50">
 
-<p align="center">
-  <strong><a href="https://april-b.github.io/">Official Website</a></strong> |
-  <strong><a href="https://steamcommunity.com/id/drwal_exe/">Steam</a></strong> 
-</p>
+<code>I'm a Human. 😎</code>
+<code>I love programming. ❤</code>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=april-b&label=Profile%20views&color=0e75b6&style=flat" alt="april-b" /> </p>
+<img src="https://github.com/april-b/april-b/blob/main/gifs/coding.gif">
+
+<br><b>Skills :</b> <code>Batch</code> | <code>C++</code> | <code>HTML</code> | <code>CSS</code>
+
+<br><img src="https://github-readme-stats.vercel.app/api?username=april-b&include_all_commits=true&show_icons=true">
+
+<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=april-b&layout=compact">
