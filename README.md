@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm <a href="https://april-b.github.io/">April-B</a>!</h1>
-<h1 align="center"> Hello! </h1>
 
 <p align="center">
   <a href="https://github.com/april-b"><img src="https://github-readme-stats.vercel.app/api?username=april-b&hide_border=true&show_icons=true" alt="April's =github stats"></a>
